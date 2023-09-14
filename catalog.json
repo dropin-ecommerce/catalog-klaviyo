@@ -1,0 +1,167 @@
+[
+  {
+    "id":"ACESSORIO-RELOGIO+COLAR+BRINCO",
+    "title":"Presente pra ela - Conjunto Relógio Champion + Colar + Brinco",
+    "link":"https://merem.com.br/collections/acessorios/products/relgio-feminino-champion-colar-e-brinco",
+    "description":"",
+    "price":497,
+"image_link":"https://assets.mycartpanda.com/static/products_images/31/c3/30/1693418150185imagem-64ef82a3a46d3?v=13252247658",
+    "categories":["acessorios"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"ACESSORIO-OCULOS-NOVA-ERA",
+    "title":"Óculos de Sol Nova Era Merem",
+    "link":"https://merem.com.br/collections/acessorios/products/oculos-de-sol-nova-era-merem",
+    "description":"",
+    "price":87,
+"image_link":"https://assets.mycartpanda.com/static/products_images/48/ec/f5/1693417636156imagem-64ef80a1982fb?v=13252247658",
+    "categories":["acessorios"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"ACESSORIO-TORNOZELEIRA-ESTRELA-AZUL-LUMINOSA",
+    "title":"Tornozeleira / Pulseira Estrela Azul Luminosa",
+    "link":"https://merem.com.br/collections/acessorios/products/tornozeleira-pulseira-estrela-azul-luminosa",
+    "description":"",
+    "price":97,
+"image_link":"https://assets.mycartpanda.com/static/products_images/7a/9b/de/1693418799586imagem-64ef852cc64bb?v=13252247658",
+    "categories":["acessorios"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"ACESSORIO-PULSEIRA-TRIO-AMOR-INFINITO",
+    "title":"Pulseira Trio Amor Infinito",
+    "link":"https://merem.com.br/collections/acessorios/products/pulseira-trio-amor-infinito",
+    "description":"",
+    "price":97,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/55/cc/91/1693419499715imagem-64ef87e91eacf?v=13252247658",
+    "categories":["acessorios"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"ACESSORIO-OCULOS-MAYARA",
+    "title":"Óculos de Sol Mayara",
+    "link":"https://merem.com.br/collections/acessorios/products/oculos-de-sol-mayara",
+    "description":"",
+    "price":97,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/64/50/db/1693422551678imagem-64ef93d437cab?v=13252247658",
+    "categories":["acessorios"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"MAIO-GRAZI",
+    "title":"Maiô Grazi",
+    "link":"https://merem.com.br/collections/maios/products/maio-grazi",
+    "description":"",
+    "price":169,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/76/a4/48/1693368665467imagem-64eec154c445b?v=13252247658",
+    "categories":["maio"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"BIQUINI-SARAH",
+    "title":"Biquíni Sarah",
+    "link":"https://merem.com.br/products/biquini-sarah",
+    "description":"",
+    "price":197,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/92/2c/50/1693405145872imagem-64ef4fd7a6eda?v=13252247658",
+    "categories":["biquini"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"SAIDA-DE-PRAIA-MAITE",
+    "title":"Saída de Praia Maitê",
+    "link":"https://merem.com.br/products/saida-de-praia-maite",
+    "description":"",
+    "price":157,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/92/eb/13/1693408332647imagem-64ef5c4a2bccc?v=13252247658",
+    "categories":["saida-de-praia"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"SAIDA-DE-PRAIA-MANU",
+    "title":"Saída de Praia Manu",
+    "link":"https://merem.com.br/products/saida-de-praia-manu",
+    "description":"",
+    "price":97,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/cd/4f/82/1693407068781imagem-64ef575a1cef8?v=13252247658",
+    "categories":["saida-de-praia"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"MAIO-VITORIA",
+    "title":"Maiô Vitória",
+    "link":"https://merem.com.br/collections/maios/products/maio-vitoria",
+    "description":"",
+    "price":169,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/f8/67/34/1693427399792imagem-64efa6c4bce53?v=13252247658",
+    "categories":["maio"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"MAIO-CAROLINA",
+    "title":"Maiô Carolina",
+    "link":"https://merem.com.br/products/maio-carolina",
+    "description":"",
+    "price":179,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/12/8d/a6/1693370605329imagem-64eec8e91ff92?v=13252247658",
+    "categories":["maio"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"MAIO-FABI",
+    "title":"Maiô Fabi",
+    "link":"https://merem.com.br/collections/maios/products/maio-fabi",
+    "description":"",
+    "price":129,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/b8/29/3f/1693420684696imagem-64ef8c8a47e34?v=13252247658",
+    "categories":["maio"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"CONJUNTO-ANGELICA",
+    "title":"Conjunto Angélica - Biquíni e Saída de Praia",
+    "link":"https://merem.com.br/collections/saida-de-praia/products/conjunto-angelica-biquini-e-saida-de-praia",
+    "description":"",
+    "price":189,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/be/31/19/1693271710918imagem-64ed469ade932?v=13252247658",
+    "categories":["saida-de-praia","biquini"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"CONJUNTO-JULIANA",
+    "title":"Conjunto Juliana - Biquini e Saída de Praia",
+    "link":"https://merem.com.br/products/conjunto-juliana-biquini-e-saida-de-praia",
+    "description":"",
+    "price":189,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/83/c8/a0/1693404559506imagem-64ef4d8d96b08?v=13252247658",
+    "categories":["saida-de-praia","biquini"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  },
+  {
+    "id":"CONJUNTO-GABRIELA",
+    "title":"Conjunto Gabriela - Biquíni e Saída de Praia",
+    "link":"https://merem.com.br/products/conjunto-gabriela-biquini-e-saida-de-praia",
+    "description":"",
+    "price":187,
+    "image_link":"https://assets.mycartpanda.com/static/products_images/b8/ec/84/1693406599741imagem-64ef558523b14?v=13252247658",
+    "categories":["saida-de-praia","biquini"],
+    "inventory_quantity":999,
+    "inventory_policy":1
+  }
+]
